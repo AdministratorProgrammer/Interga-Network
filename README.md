@@ -5,7 +5,7 @@
 
 Наши ресурсы:
 + **[Вебсайт](https://administratorprogrammer.github.io/Interga-Network/)**
-+ **[Телеграм канал](https://t.me/IntegraNetwork)**
++ **[Telegram канал](https://t.me/IntegraNetwork)**
 
 Это проект с открытым исходным кодом. Для тех, кто желает присоединиться к разработке проекта:
 [Telegram группа](https://t.me/+0sr4VHAwEvgwZjA6), ...
