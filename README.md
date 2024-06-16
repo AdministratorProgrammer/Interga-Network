@@ -20,4 +20,4 @@ Our resources:
 This project is open source. For those who would like to join the development:
 [Telegram group](https://t.me/+0sr4VHAwEvgwZjA6)
 
-***(All of the above is our vision for the project in the near future. We need the support of the community to bring that future closer! If you would like to participate, please follow us on Telegram)**
+***(All of the above is our vision for the project in the near future. We need the support of the community to bring that future closer! If you would like to participate, please follow us on Telegram)***
