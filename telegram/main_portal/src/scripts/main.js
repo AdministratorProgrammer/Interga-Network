@@ -7,7 +7,7 @@ Telegram.WebApp.onEvent('themeChanged', function() {
 });
 
 function testFunc() {
-	alert("Tap tap!");
+	showPopup();
 }
 
 function showPopup() {

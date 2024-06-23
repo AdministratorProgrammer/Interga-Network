@@ -2,6 +2,7 @@
 
 body {
 	background-color: black;
+	height: 100%;
 }
 
 .default-text {
@@ -13,18 +14,27 @@ body {
 .default-button {
 	border-style: none;
 	border-color: #1B5048;
-	border-radius: 5px;
+	border-radius: 28px;
 	background-color: #1E5A51;
 }
 
 #tap-button {
-	width: 100%;
-	height: 30px;
 	color: white;
 	font-family: "Roboto Mono", monospace;
 	font-weight: 280;
+
+	position: absolute;
+	bottom: 2px;
+	margin: 0 auto;
+
+	right: 2px;
+	left: 2px;
+
+	height: 50px;
+	min-width: 20px;
+	max-width: 99%;
 }
 
-.classic-button:hover {
+.default-button:hover {
 	
 }
