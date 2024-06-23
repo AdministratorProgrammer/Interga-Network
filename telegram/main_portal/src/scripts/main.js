@@ -9,3 +9,18 @@ Telegram.WebApp.onEvent('themeChanged', function() {
 function testFunc() {
 	alert("Tap tap!");
 }
+
+function showPopup() {
+    Telegram.WebApp.showPopup({
+        title: 'Hi!',
+        message: 'It will be soon=)',
+        buttons: [
+            {id: 'link', type: 'default', text: 'Open Project Site'},
+            {type: 'cancel'},
+        ]
+    }, function(btn) {
+        if (btn === 'link') {
+            Telegram.WebApp.openLink('https://administratorprogrammer.github.io/Interga-Network/');
+        }
+    });
+};
