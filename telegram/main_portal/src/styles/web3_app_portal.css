@@ -3,5 +3,9 @@ body {
 }
 
 .classic-button {
+	background-color: 206158;
+}
+
+.classic-button:hover {
 	background-color: red;
 }
