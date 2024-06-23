@@ -1,11 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
 body {
-	background-color: 206158;
+	background-color: black;
 }
 
-.classic-button {
-	background-color: 206158;
+.default-text {
+	color: white;
+	font-family: "Roboto Mono", monospace;
+	font-weight: 200;
+}
+
+.default-button {
+	border-style: none;
+	border-color: #1B5048;
+	border-radius: 5px;
+	background-color: #1E5A51;
+}
+
+#tap-button {
+	width: 100%;
+	height: 30px;
+	color: white;
+	font-family: "Roboto Mono", monospace;
+	font-weight: 280;
 }
 
 .classic-button:hover {
-	background-color: red;
+	
 }
