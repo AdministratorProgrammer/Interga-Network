@@ -24,3 +24,7 @@ function showPopup() {
         }
     });
 };
+
+window.addEventListener("beforeunload", function () {
+    console.log("hello");
+});
